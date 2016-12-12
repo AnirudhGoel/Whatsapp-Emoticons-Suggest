@@ -5,7 +5,7 @@ Built on the top of [Prabhakar Gupta](http://prabhakargupta.com/)'s [whatsapp-em
 
 [![Chrome Store](https://raw.githubusercontent.com/prabhakar267/github-classifier/master/assets/images/chrome-store.png)](https://chrome.google.com/webstore/detail/whatsapp-emoticons-sugges/pdicajhpekmkjildobfnokpdmnejlnfm?hl=en-US&gl=IN)
 
-![Mozilla Download](https://addons.mozilla.org/addon/whatsapp-emoticons-suggestions/)
+[![Mozilla Download](assets/mozilla.png)](https://addons.mozilla.org/addon/whatsapp-emoticons-suggestions/)
 
 ![Demo](/assets/screenrecord.gif)
 
