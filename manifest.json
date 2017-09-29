@@ -1,14 +1,14 @@
 {
 	"manifest_version": 2,
-	"name": "WhatsApp Emoticons Suggestions",
-	"short_name": "Whatsapp Emoticons Suggestions",
+	"name": "WA Emoticons Suggestions",
+	"short_name": "WA Emoticons Suggestions",
 	"description": "Tool to convert text smileys to WhatsApp Emoticons and suggest similar emojis to make life simple while using WhatsApp Web",
 	"version": "1.0.1",
 	"author": "Anirudh Goel",
 	"homepage_url": "https://github.com/AnirudhGoel/Whatsapp-Emoticons-Suggest",
 
 	"browser_action": {
-		"default_title": "WhatsApp Emoticons Suggestions",
+		"default_title": "WA Emoticons Suggestions",
 		"default_icon": "assets/favicon.png"
 	},
 
